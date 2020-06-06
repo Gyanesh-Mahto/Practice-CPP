@@ -1,0 +1,2 @@
+Static member variables: https://www.learncpp.com/cpp-tutorial/811-static-member-variables/
+Static member functions: https://www.learncpp.com/cpp-tutorial/812-static-member-functions/
