@@ -1,0 +1,4 @@
+It is a keyword which is used to allow a particular data member of a constant object to be modified.
+
+Reference:
+https://www.geeksforgeeks.org/c-mutable-keyword/
