@@ -29,3 +29,13 @@ int main()
     car2.getinfo(6,8);
     car2.showinfo();
 }
+/*
+O/P:
+----
+Number of Wheels = 4
+Number of Passengers = 5
+Address of current object: 0x72fe10
+Number of Wheels = 6
+Number of Passengers = 8
+Address of current object: 0x72fe00
+*/
