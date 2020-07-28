@@ -1,0 +1,6 @@
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/build/CMakeFiles/edit_cache.dir
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/build/CMakeFiles/rebuild_cache.dir
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/build/src/CMakeFiles/edit_cache.dir
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/build/src/CMakeFiles/rebuild_cache.dir
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/build/src/CMakeFiles/header.dir
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/build/src/CMakeFiles/bin_main.dir

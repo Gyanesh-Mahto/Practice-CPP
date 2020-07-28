@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/bin_main.dir/main.cpp.o  -o bin_main libheader.so -Wl,-rpath,/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/build/src 

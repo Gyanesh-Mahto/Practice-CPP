@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/src/print_name.cpp
+print_name.h
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/src/print_name.h
+
+/home/mga/gyanesh_programming/c++/Bonn_Univ_Igor/cmake_proj/src/print_name.h
+iostream
+-
+string
+-
+
